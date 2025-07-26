@@ -30,7 +30,7 @@ const Hero = () => {
         <img
           src={heroImage}
           alt="Souad Shamieh"
-          className="w-64 h-64 sm:w-72 sm:h-72 md:w-80 md:h-80 lg:w-96 lg:h-96 rounded-full object-cover border-4 border-white shadow-lg transition-transform duration-300 hover:scale-105"
+          className="w-72 h-72 md:w-80 md:h-80 lg:w-96 lg:h-96 rounded-full border-[4px] border-white object-cover shadow-xl"
         />
       </div>
     </section>
